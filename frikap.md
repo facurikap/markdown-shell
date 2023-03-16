@@ -1,3 +1,5 @@
+<!-- http://localhost:8080/frikap/index.html -->
+<!-- npx @11ty/eleventy --serve -->
 # 👋 I´m Facundo Rikap
 ## 📋 About me
 I'm from Argentina. I am passionate about technology and I am constantly looking for new knowledge. I consider myself someone capable of facing difficult situations and dealing with them in the best way 
@@ -16,6 +18,3 @@ I am currently studying Systems Engineering at UTN
 #### 🖱 Alias commands
 * cl = `"clear"` **Abbreviation for clear**
 * rm = `"trash"` **Avoid deleting files permanently**
-
-<!-- http://localhost:8080/frikap/index.html -->
-<!-- npx @11ty/eleventy --serve -->
